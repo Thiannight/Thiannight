@@ -9,7 +9,7 @@
   <a href="mailto:thiann650@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 </div>
- <h2>🛠️ Tech Stack </h2>
+ <h2>🛠️ Tech Stack </h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-24243E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-24243E?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -26,7 +26,7 @@
 </p>
 <br/>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiannight&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=C9B8FF&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com/?user=Thiannight&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=C9B8FF&currStreakLabel=A78BFA" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiannight&theme=react-dark&bg_color=0D1117&color=A78BFA&line=C9B8FF&point=FFFFFF&hide_border=true" width="100%"/>
 <br/><br/>
